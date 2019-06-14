@@ -12,7 +12,7 @@
     "url": "git+https://github.com/geekbrains-web/example-node-deploy-to-heroku.git"
   },
   "author": "Oleg Shikov <ol.shikov@yandex.ru>",
-  "license": "ISC",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/geekbrains-web/example-node-deploy-to-heroku/issues"
   },
